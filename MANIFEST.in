@@ -1,0 +1,11 @@
+include worddash/worddash.min.js
+include worddash/worddash.min.js.map
+include worddash/async-*.js
+include worddash/async-*.js.map
+include worddash/*-shared.js
+include worddash/*-shared.js.map
+include worddash/metadata.json
+include worddash/package-info.json
+include README.md
+include LICENSE
+include package.json
