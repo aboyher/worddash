@@ -1,6 +1,6 @@
 Package: worddash
 Title: Plotly Dash WordCloud Component
-Version: 0.0.1
+Version: 0.0.2
 Description: Plotly Dash WordCloud Component
 Depends: R (>= 3.0.2)
 Imports: 

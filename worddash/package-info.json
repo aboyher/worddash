@@ -1,6 +1,6 @@
 {
   "name": "worddash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plotly Dash WordCloud Component",
   "main": "build/index.js",
   "scripts": {
